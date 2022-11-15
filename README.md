@@ -1,2 +1,2 @@
-# assetto
-# Apps that improve the usabilty of Assetto Corsa
+# League scrapper
+# datamining from a league of legends stats finder
