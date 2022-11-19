@@ -22,7 +22,7 @@ for match in matches:
         team1 =teams.contents[1]
         team2 =teams.contents[3]
         print(result)
-        print("TEAM1")
+        print("\nTEAM1")
         findchampname(team1)
         print("\nTEAM2")
         findchampname(team2)
